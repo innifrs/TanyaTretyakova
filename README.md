@@ -3,10 +3,10 @@ Data Analyst
 
 🌟 About Me
 
-🎓 Education: Master's in Data Analyst, University
-🏢 Current Role: Data Analyst at financial reporting
-💡 Interests: NLP, Deep Learning, Data Visualization, Cloud Computing
-📫 Reach Me: Email
+🎓 Education: Master's in Data Analyst, University  
+🏢 Current Role: Data Analyst at financial reporting  
+💡 Interests: NLP, Deep Learning, Data Visualization, Cloud Computing  
+📫 Reach Me: Email  
 
 🛠️ Skills and Technologies
 
