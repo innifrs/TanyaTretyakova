@@ -25,5 +25,5 @@ Others: Jupyter Notebooks, Google Colab, DBeaver
 
 
 🚀 Projects  
-DCF model IFRS 16 (Python)
+DCF model IFRS 16 (Python)    
 SQL
