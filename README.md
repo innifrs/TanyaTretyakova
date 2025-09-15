@@ -1,4 +1,4 @@
-# TanyaTretyakova
+# TatyanaTretyakova
 Financial analyst
 
 🌟 About Me
